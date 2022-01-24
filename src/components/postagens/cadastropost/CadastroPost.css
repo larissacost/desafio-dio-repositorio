@@ -1,0 +1,26 @@
+.caixatexto-color {
+    background-color: white !important;
+}
+
+.tamanhocaixa-tema {
+    width: 300px !important;
+    margin-top: 30px;
+}
+
+.margemcaixa-tema {
+    margin-top: 40px;
+}
+
+.borda-cor {
+    border-color: #c1c2bd !important;
+}
+
+.paddingPost{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.txtFieldColor-post{
+    color:#353535 !important; 
+}
